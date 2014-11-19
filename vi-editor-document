@@ -1,0 +1,11 @@
+yy --> copy entire line
+p --> paste that line in current cursor
+. --> repeat last command
+J --> Join the line 
+r --> replace current letter where cursor placed
+H --> Top of the page
+L --> Last page
+e --> Move End of the word
+w --> Move begining of the word
+dw -- > delete word
+u --> Undoes
